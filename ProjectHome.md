@@ -1,0 +1,1 @@
+This project will develop both a desktop and handheld recipe creation, cataloging, and searching ability. Future improvements will be faceted recipe search, nutritional tracking, and grocery list creation
